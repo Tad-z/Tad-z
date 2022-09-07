@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tad-z
+- 👋 Hi, I’m David Akintade
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development related projects
 - 📫 How to reach me....08132936842
 
