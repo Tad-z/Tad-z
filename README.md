@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Akintade
-- 👀 I’m interested in full stack web development, mobile app dev, data science
+- 👀 I’m interested in full stack web development, blockchain engineering, devops, data science
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development related projects
 - 📫 How to reach me....08132936842
