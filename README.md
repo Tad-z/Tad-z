@@ -1,8 +1,8 @@
 - 👋 Hi, I’m David Akintade
-- 👀 I’m interested in full stack web development, blockchain engineering, devops, data science
-- 🌱 I’m currently learning web development and blockchain 
+- 👀 I’m interested in full stack web development, blockchain engineering and cloud computing
+- 🌱 I’m currently learning Data Structures and Algorithms 
 - 💞️ I’m looking to collaborate on web development related projects
-- 📫 How to reach me....08132936842
+- 📫 How to reach me....08132936842, david.akintade1000@gmail.com
 
 <!---
 Tad-z/Tad-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
