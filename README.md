@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Akintade
-- 👀 I’m interested in software development, blockchain engineering and cloud computing
+- 👀 I’m currently interested in software development and machine learning
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 💞️ I’m looking to collaborate on software development related projects
 - 📫 How to reach me....08132936842, david.akintade1000@gmail.com
